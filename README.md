@@ -1,5 +1,18 @@
+# ⚛️ React + Next.js Components Repo
 
-Keep it modular, readable, and easy to plug-n-play.
+Welcome to the **React + Next.js Components** repo — a collection of clean, reusable JavaScript components built for modern web apps.
+
+> This repo is not a package. It’s just a stash of code blocks — drop in what you need or contribute something useful. Real devs helping devs.
+
+---
+
+## 📁 Folder Structure
+
+All components live in the top-level `components/` directory.  
+Each component goes in **its own folder**, like this:
+
+---
+Please make sure to keep it modular, readable, and easy to plug-n-play.
 
 ---
 

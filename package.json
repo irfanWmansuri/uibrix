@@ -1,0 +1,31 @@
+{
+  "name": "react-next-components",
+  "version": "1.0.1",
+  "description": "This repo is not a package. It's just a stash of code blocks — drop in what you need or contribute something useful. Real devs helping devs.",
+  "keywords": [
+    "react",
+    "components",
+    "next"
+  ],
+  "license": "MIT",
+  "author": "Vishal Ravanank",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "@eslint/eslintrc": "^3"
+  }
+}
